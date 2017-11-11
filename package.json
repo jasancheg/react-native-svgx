@@ -1,8 +1,8 @@
 {
   "name": "react-native-svgx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Render a svg element from json definition",
-  "main": "index.js",
+  "main": "lib/Svgx.js",
   "scripts": {
     "eslint": "node_modules/eslint/bin/eslint.js lib/ScrollViewSmart",
     "test": "yarn eslint && yarn jest",

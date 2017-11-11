@@ -4,3 +4,4 @@ Example/
 .eslintrc.js
 .editorconfig
 circle.yml
+index.js
