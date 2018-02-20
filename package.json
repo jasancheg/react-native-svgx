@@ -1,6 +1,6 @@
 {
   "name": "react-native-svgx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Render a svg element from json definition",
   "main": "lib/Svgx.js",
   "scripts": {
